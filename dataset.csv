@@ -1,0 +1,76 @@
+Resume Skills,Job Description Skills,Match Score,Missing Skills,Recommendations
+"['Data Analysis', 'SQL']","['Python', 'Machine Learning', 'SQL', 'Data Analysis']",0.5,"['Python', 'Machine Learning']","['Consider exploring resources to learn Python.', 'Enhance your skills in Machine Learning through online courses.']"
+"['Java', 'Hibernate', 'MySQL']","['Java', 'Spring', 'MySQL', 'Hibernate']",0.75,['Spring'],['Consider exploring resources to learn Spring.']
+"['HTML', 'JavaScript', 'React']","['HTML', 'CSS', 'JavaScript', 'React']",0.75,['CSS'],['Consider exploring resources to learn CSS.']
+"['Docker', 'Kubernetes', 'AWS']","['Docker', 'Kubernetes', 'AWS', 'DevOps']",0.75,['DevOps'],['Gain practical experience in DevOps tools to meet job requirements.']
+"['Python', 'Pandas', 'Data Visualization']","['Python', 'Pandas', 'NumPy', 'Machine Learning']",0.4,"['NumPy', 'Machine Learning']","['Consider exploring resources to learn NumPy.', 'Enhance your skills in Machine Learning through online courses.']"
+"['Java', 'REST', 'Microservices', 'Cloud']","['Java', 'Spring Boot', 'REST', 'Cloud']",0.6,['Spring Boot'],['Consider exploring resources to learn Spring Boot.']
+"['HTML', 'CSS', 'Node.js', 'Express']","['HTML', 'CSS', 'Node.js', 'Express']",1.0,[],[]
+"['Deep Learning', 'TensorFlow', 'Keras']","['Python', 'Deep Learning', 'TensorFlow', 'Machine Learning']",0.4,"['Python', 'Machine Learning']","['Consider exploring resources to learn Python.', 'Enhance your skills in Machine Learning through online courses.']"
+"['JavaScript', 'React', 'Redux']","['JavaScript', 'React', 'Node.js', 'Redux']",0.75,['Node.js'],['Familiarize yourself with Node.js to strengthen your full-stack capabilities.']
+"['SQL', 'Data Analysis', 'Excel']","['SQL', 'Data Analysis', 'Excel', 'Power BI']",0.75,['Power BI'],['Explore Power BI to enhance your data visualization capabilities.']
+"['Python', 'Scrapy', 'Beautiful Soup', 'APIs']","['Python', 'Web Scraping', 'APIs', 'Beautiful Soup']",0.6,['Web Scraping'],['Practice web scraping techniques to gain practical insights.']
+"['Java', 'Spring Boot', 'JPA', 'PostgreSQL']","['Java', 'Spring', 'PostgreSQL', 'Microservices']",0.3333333333333333,"['Spring', 'Microservices']","['Consider exploring resources to learn Spring.', 'Deepen your understanding of Microservices architecture.']"
+"['Angular', 'TypeScript']","['JavaScript', 'Angular', 'HTML', 'TypeScript']",0.5,"['HTML', 'JavaScript']","['Consider exploring resources to learn HTML.', 'Consider JavaScript frameworks like React or Angular for front-end development.']"
+"['C++', 'Algorithms', 'Data Structures', 'Python']","['C++', 'Data Structures', 'Algorithms', 'Python']",1.0,[],[]
+"['DevOps', 'Jenkins', 'Terraform']","['DevOps', 'CI/CD', 'AWS', 'Terraform']",0.4,"['AWS', 'CI/CD']","['Consider exploring resources to learn AWS.', 'Consider exploring resources to learn CI/CD.']"
+"['Python', 'Machine Learning', 'Scikit-learn', 'Pandas']","['Python', 'Machine Learning', 'Scikit-learn', 'Data Analysis']",0.6,['Data Analysis'],['Consider taking courses in data analysis to improve your analytical skills.']
+"['Oracle', 'SQL', 'Microservices']","['Java', 'SQL', 'Oracle', 'Microservices']",0.75,['Java'],['Explore Java tutorials and build projects to enhance your programming skills.']
+"['HTML', 'CSS', 'Bootstrap', 'JavaScript']","['HTML', 'CSS', 'Bootstrap', 'JavaScript']",1.0,[],[]
+"['Python', 'Data Science', 'Statistics', 'Matplotlib']","['Python', 'Statistics', 'Machine Learning', 'Data Visualization']",0.3333333333333333,"['Machine Learning', 'Data Visualization']","['Enhance your skills in Machine Learning through online courses.', 'Consider exploring resources to learn Data Visualization.']"
+"['Java', 'JavaFX', 'Maven', 'JUnit']","['Java', 'JUnit', 'Maven', 'SQL']",0.6,['SQL'],['Consider taking an SQL course to improve your database skills.']
+"['JavaScript', 'Vue.js', 'Nuxt.js', 'API Integration']","['JavaScript', 'API Integration', 'Vue.js', 'Frontend']",0.6,['Frontend'],['Consider exploring resources to learn Frontend.']
+"['Python', 'FastAPI', 'Machine Learning', 'Docker']","['Python', 'FastAPI', 'Machine Learning', 'Docker']",1.0,[],[]
+"['Java', 'REST API', 'Spring Cloud', 'AWS']","['Java', 'Spring', 'AWS', 'REST API']",0.6,['Spring'],['Consider exploring resources to learn Spring.']
+"['HTML', 'CSS', 'React', 'Redux']","['HTML', 'CSS', 'React', 'JavaScript']",0.6,['JavaScript'],['Consider JavaScript frameworks like React or Angular for front-end development.']
+"['Python', 'Tableau', 'Business Intelligence']","['Python', 'Business Intelligence', 'Tableau', 'Data Visualization']",0.75,['Data Visualization'],['Consider exploring resources to learn Data Visualization.']
+"['Java', 'Eclipse', 'JUnit', 'MySQL']","['Java', 'Eclipse', 'MySQL', 'JUnit']",1.0,[],[]
+"['Python', 'Flask', 'APIs', 'SQLAlchemy']","['Python', 'Flask', 'APIs', 'SQLAlchemy']",1.0,[],[]
+"['JavaScript', 'Node.js', 'Express', 'MongoDB']","['JavaScript', 'Node.js', 'Express', 'MongoDB']",1.0,[],[]
+"['Python', 'NLP', 'SpaCy', 'Text Analysis']","['Python', 'NLP', 'Machine Learning', 'Text Analysis']",0.6,['Machine Learning'],['Enhance your skills in Machine Learning through online courses.']
+"['Java', 'Struts', 'Hibernate', 'SQL']","['Java', 'Hibernate', 'SQL', 'Struts']",1.0,[],[]
+"['HTML', 'CSS', 'JavaScript', 'Frontend Development']","['HTML', 'CSS', 'JavaScript', 'Responsive Design']",0.6,['Responsive Design'],['Consider exploring resources to learn Responsive Design.']
+"['Python', 'Big Data', 'Spark', 'Hadoop']","['Python', 'Big Data', 'Spark', 'Data Analysis']",0.6,['Data Analysis'],['Consider taking courses in data analysis to improve your analytical skills.']
+"['Java', 'Kafka', 'Microservices', 'Spring']","['Java', 'Microservices', 'Kafka', 'Spring']",1.0,[],[]
+"['Python', 'Data Cleaning', 'Pandas', 'NumPy']","['Python', 'Pandas', 'Data Cleaning', 'Data Analysis']",0.6,['Data Analysis'],['Consider taking courses in data analysis to improve your analytical skills.']
+"['JavaScript', 'API Development', 'Frontend']","['JavaScript', 'React', 'API Development', 'Frontend']",0.75,['React'],['Consider exploring resources to learn React.']
+"['Java', 'Web Development', 'Tomcat']","['Java', 'Java EE', 'Web Development', 'Tomcat']",0.75,['Java EE'],['Consider exploring resources to learn Java EE.']
+"['Python', 'Statistical Analysis', 'Data Mining']","['Python', 'Statistical Analysis', 'Machine Learning', 'Data Mining']",0.75,['Machine Learning'],['Enhance your skills in Machine Learning through online courses.']
+"['Java', 'Spring MVC', 'Oracle']","['Java', 'Oracle', 'Spring MVC', 'JDBC']",0.75,['JDBC'],['Consider exploring resources to learn JDBC.']
+"['HTML', 'CSS', 'JavaScript', 'Responsive Design']","['HTML', 'CSS', 'JavaScript', 'Web Development']",0.6,['Web Development'],['Consider exploring resources to learn Web Development.']
+"['Python', 'Data Wrangling', 'Pandas', 'NLP']","['Python', 'NLP', 'Machine Learning', 'Data Analysis']",0.3333333333333333,"['Data Analysis', 'Machine Learning']","['Consider taking courses in data analysis to improve your analytical skills.', 'Enhance your skills in Machine Learning through online courses.']"
+"['Java', 'Golang', 'Cloud', 'Microservices']","['Java', 'Microservices', 'Cloud', 'Golang']",1.0,[],[]
+"['JavaScript', 'Sass', 'Vue.js']","['JavaScript', 'Frontend Development', 'Vue.js', 'Sass']",0.75,['Frontend Development'],['Consider exploring resources to learn Frontend Development.']
+"['Python', 'ML Ops', 'Deployment', 'AWS']","['Python', 'AWS', 'ML Ops', 'Deployment']",1.0,[],[]
+"['Spring Framework', 'MongoDB', 'REST API']","['Java', 'REST API', 'MongoDB', 'Spring Framework']",0.75,['Java'],['Explore Java tutorials and build projects to enhance your programming skills.']
+"['Python', 'Java']","['HTML', 'CSS', 'Web Design', 'Bootstrap']",0.0,"['Web Design', 'HTML', 'CSS', 'Bootstrap']","['Consider exploring resources to learn Web Design.', 'Consider exploring resources to learn HTML.', 'Consider exploring resources to learn CSS.', 'Explore Bootstrap tutorials to create responsive web applications.']"
+"['Python', 'Data Visualization']","['Python', 'Data Visualization', 'Seaborn', 'Dash']",0.5,"['Dash', 'Seaborn']","['Consider exploring resources to learn Dash.', 'Consider exploring resources to learn Seaborn.']"
+"['Java', 'JSP', 'Servlets', 'MySQL']","['Java', 'JSP', 'Web Services', 'MySQL']",0.6,['Web Services'],['Consider exploring resources to learn Web Services.']
+"['JavaScript', 'WebSockets', 'Node.js']","['JavaScript', 'WebSockets', 'Node.js', 'Express']",0.75,['Express'],['Consider exploring resources to learn Express.']
+"['Python', 'Statistical Modeling', 'Machine Learning']","['Python', 'Machine Learning', 'Statistical Modeling', 'R']",0.75,['R'],['Consider exploring resources to learn R.']
+"['JavaScript', 'Machine Learning', 'Statistics']","['JavaScript', 'Data Science', 'Statistics']",0.5,['Data Science'],['Consider exploring resources to learn Data Science.']
+"['Python', 'Machine Learning']","['Python', 'Machine Learning', 'SQL', 'Data Analysis', 'Java']",0.4,"['SQL', 'Data Analysis', 'Java']","['Consider taking an SQL course to improve your database skills.', 'Consider taking courses in data analysis to improve your analytical skills.', 'Explore Java tutorials and build projects to enhance your programming skills.']"
+"['Java', 'Spring', 'Hibernate', 'MySQL']","['Java', 'Spring', 'MySQL', 'Hibernate', 'Node.js']",0.8,['Node.js'],['Familiarize yourself with Node.js to strengthen your full-stack capabilities.']
+"['JavaScript', 'HTML', 'CSS']","['JavaScript', 'HTML', 'CSS', 'Bootstrap', 'React']",0.6,"['Bootstrap', 'React']","['Explore Bootstrap tutorials to create responsive web applications.', 'Consider exploring resources to learn React.']"
+"['PHP', 'MySQL', 'WordPress']","['PHP', 'MySQL', 'WordPress', 'JavaScript']",0.75,['JavaScript'],['Consider JavaScript frameworks like React or Angular for front-end development.']
+"['Bootstrap', 'HTML', 'CSS']","['Bootstrap', 'HTML', 'CSS', 'Javascript']",0.75,['Javascript'],['Consider exploring resources to learn Javascript.']
+"['C++', 'Data Structures', 'Algorithms']","['C++', 'Data Structures', 'Algorithms', 'Python']",0.75,['Python'],['Consider exploring resources to learn Python.']
+"['Node.js', 'Express', 'MongoDB']","['Node.js', 'Express', 'MongoDB', 'JavaScript']",0.75,['JavaScript'],['Consider JavaScript frameworks like React or Angular for front-end development.']
+"['Ruby', 'Ruby on Rails', 'SQL']","['Ruby', 'Ruby on Rails', 'SQL', 'HTML']",0.75,['HTML'],['Consider exploring resources to learn HTML.']
+"['C#', '.NET', 'SQL Server']","['C#', '.NET', 'SQL Server', 'Agile']",0.75,['Agile'],['Consider exploring resources to learn Agile.']
+"['Swift', 'iOS Development']","['Swift', 'iOS Development', 'Objective-C']",0.6666666666666666,['Objective-C'],['Consider exploring resources to learn Objective-C.']
+"['Kotlin', 'Android Development']","['Kotlin', 'Android Development', 'Java']",0.6666666666666666,['Java'],['Explore Java tutorials and build projects to enhance your programming skills.']
+"['R', 'Statistics', 'Data Visualization']","['R', 'Statistics', 'Data Visualization']",1.0,[],[]
+"['TensorFlow', 'Deep Learning']","['TensorFlow', 'Deep Learning', 'Python']",0.6666666666666666,['Python'],['Consider exploring resources to learn Python.']
+"['Git', 'GitHub', 'Version Control']","['Git', 'GitHub', 'Version Control', 'Agile']",0.75,['Agile'],['Consider exploring resources to learn Agile.']
+['DevOps'],"['Docker', 'Kubernetes', 'DevOps']",0.3333333333333333,"['Docker', 'Kubernetes']","['Consider exploring resources to learn Docker.', 'Consider exploring resources to learn Kubernetes.']"
+"['Tableau', 'Data Analysis']","['Power BI', 'Tableau', 'Data Analysis']",0.6666666666666666,['Power BI'],['Explore Power BI to enhance your data visualization capabilities.']
+"['Agile', 'Scrum', 'Lean']","['Agile', 'Scrum', 'Project Management']",0.5,['Project Management'],['Consider exploring resources to learn Project Management.']
+"['SEO', 'Digital Marketing']","['SEO', 'Digital Marketing', 'Content Writing']",0.6666666666666666,['Content Writing'],['Consider exploring resources to learn Content Writing.']
+"['React', 'JavaScript']","['React', 'Redux', 'JavaScript']",0.6666666666666666,['Redux'],['Consider exploring resources to learn Redux.']
+"['Angular', 'Javascript', 'Frontend Development']","['Angular', 'TypeScript', 'Frontend Development']",0.5,['TypeScript'],['Learn TypeScript for better development practices in modern JavaScript.']
+['Java'],"['Java', 'Spring Boot', 'Microservices']",0.3333333333333333,"['Microservices', 'Spring Boot']","['Deepen your understanding of Microservices architecture.', 'Consider exploring resources to learn Spring Boot.']"
+"['Swift', 'iOS']","['Swift', 'Objective-C', 'iOS']",0.6666666666666666,['Objective-C'],['Consider exploring resources to learn Objective-C.']
+"['Game Development', 'C#']","['Unity', 'Game Development', 'C#']",0.6666666666666666,['Unity'],['Consider exploring resources to learn Unity.']
+['Cloud Computing'],"['Salesforce', 'CRM', 'Cloud Computing']",0.3333333333333333,"['Salesforce', 'CRM']","['Consider exploring resources to learn Salesforce.', 'Consider exploring resources to learn CRM.']"
+"['PHP', 'Laravel', 'Web Development']","['PHP', 'Laravel', 'Web Development', 'HTML']",0.75,['HTML'],['Consider exploring resources to learn HTML.']

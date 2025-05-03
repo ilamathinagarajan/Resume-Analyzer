@@ -1,2 +1,26 @@
-Matching a resume to a job description is crucial but often time-consuming. The goal is to simplify this process by analyzing resumes to see how well they align with job descriptions and offering recommendations to improve them. Utilizing deep learning techniques, particularly Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), and Natural Language Processing (NLP), ensures accurate analysis and feedback. Built with Python and Streamlit, the system provides suggestions for enhancing resume content, making it more appealing to employers. This approach enables job seekers to optimize their resumes effectively, improving their chances of securing interviews.
-![image](https://github.com/user-attachments/assets/e935201a-3e02-409d-9a67-1880e79efc7d)
+# 🧠 Resume Analyser
+
+**Is your resume good enough?**  
+A free and fast AI-powered resume analyser that compares your resume with job descriptions, identifies missing skills, and offers tailored suggestions to improve your chances of passing the resume screening process.
+
+## 🚀 Features
+- ✅ Upload your resume (PDF, DOCX, TXT, JPG, PNG)
+- ✅ Provide a job description URL
+- ✅ Automatically extract and compare job keywords and resume content
+- ✅ Get a **match score** indicating alignment with the job
+- ✅ View a list of **missing skills**
+- ✅ Receive **custom improvement suggestions**
+
+## 🛠 Tech Stack
+
+- **Frontend**: Streamlit
+- **Backend**: Python
+- **Libraries**: NLP (SpaCy / NLTK), PDF parsing, Web scraping
+- **Deployment**: Localhost (can be extended to Streamlit Cloud or Heroku)
+
+## 📂 How to Run Locally
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/resume-analyser.git
+   cd resume-analyser

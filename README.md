@@ -11,20 +11,6 @@ A free and fast AI-powered resume analyser that compares your resume with job de
 - ✅ View a list of **missing skills**
 - ✅ Receive **custom improvement suggestions**
 
-## 📸 Screenshots
-
-### Landing Page
-
-
-### Upload Section
-![Upload Resume](images/upload_resume.png)
-
-### Results with Match Score
-![Match Score](images/match_score.png)
-
-### Suggestions for Improvement
-![Suggestions](images/improvement_suggestions.png)
-
 ## 🛠 Tech Stack
 
 - **Frontend**: Streamlit
